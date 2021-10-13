@@ -1,0 +1,17 @@
+/Users/jukhan/Downloads/jasim-khan-tech-challenge/analyser/bin/analyser.deps.json
+/Users/jukhan/Downloads/jasim-khan-tech-challenge/analyser/bin/analyser.runtimeconfig.json
+/Users/jukhan/Downloads/jasim-khan-tech-challenge/analyser/bin/analyser.runtimeconfig.dev.json
+/Users/jukhan/Downloads/jasim-khan-tech-challenge/analyser/bin/analyser.dll
+/Users/jukhan/Downloads/jasim-khan-tech-challenge/analyser/bin/ref/analyser.dll
+/Users/jukhan/Downloads/jasim-khan-tech-challenge/analyser/bin/analyser.pdb
+/Users/jukhan/Downloads/jasim-khan-tech-challenge/analyser/bin/LanguageExt.Core.dll
+/Users/jukhan/Downloads/jasim-khan-tech-challenge/analyser/obj/Debug/net5.0/analyser.csproj.AssemblyReference.cache
+/Users/jukhan/Downloads/jasim-khan-tech-challenge/analyser/obj/Debug/net5.0/analyser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jukhan/Downloads/jasim-khan-tech-challenge/analyser/obj/Debug/net5.0/analyser.AssemblyInfoInputs.cache
+/Users/jukhan/Downloads/jasim-khan-tech-challenge/analyser/obj/Debug/net5.0/analyser.AssemblyInfo.cs
+/Users/jukhan/Downloads/jasim-khan-tech-challenge/analyser/obj/Debug/net5.0/analyser.csproj.CoreCompileInputs.cache
+/Users/jukhan/Downloads/jasim-khan-tech-challenge/analyser/obj/Debug/net5.0/analyser.csproj.CopyComplete
+/Users/jukhan/Downloads/jasim-khan-tech-challenge/analyser/obj/Debug/net5.0/analyser.dll
+/Users/jukhan/Downloads/jasim-khan-tech-challenge/analyser/obj/Debug/net5.0/ref/analyser.dll
+/Users/jukhan/Downloads/jasim-khan-tech-challenge/analyser/obj/Debug/net5.0/analyser.pdb
+/Users/jukhan/Downloads/jasim-khan-tech-challenge/analyser/obj/Debug/net5.0/analyser.genruntimeconfig.cache
